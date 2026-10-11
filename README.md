@@ -4,6 +4,8 @@ Historial de partidas entre amigos, con validación cruzada de resultados.
 
 Esta es la **etapa 1**: cuentas con username, email y contraseña; tags de personas y juegos; carga, edición y borrado de partidas con equipos; historial, cara a cara y estadísticas por juego. La base de datos ya está preparada para la etapa 2 (vínculo entre cuentas y validación), así que no va a hacer falta migrar datos.
 
+Las decisiones de producto, los flujos y los criterios de diseño están en [`docs/specs/`](docs/specs/README.md).
+
 ## Cómo está armado
 
 | Parte | Tecnología | Dónde |
